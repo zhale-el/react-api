@@ -1,0 +1,76 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "title 1",
+      "des": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quasi, asperiores",
+      "image": "./src/assets/image/title1.png",
+      "readingTime": "3 min",
+      "category": "lorem1",
+      "writer": "react1"
+    },
+    {
+      "id": 2,
+      "title": "title 2",
+      "des": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quasi, asperiores consectetur adipisicing elit",
+      "image": "./src/assets/image/title2.png",
+      "readingTime": "6min",
+      "category": "lorem2",
+      "writer": "react2"
+    },
+    {
+      "id": 3,
+      "title": "title 3",
+      "des": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.consectetur adipisicing consectetur adipisicing elit.consectetur adipisicing elit Quasi, asperiores",
+      "image": "./src/assets/image/title3.png",
+      "readingTime": "9 min",
+      "category": "lorem3",
+      "writer": "react3"
+    },
+    {
+      "id": 4,
+      "title": "title 4",
+      "des": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quasi, asperiores",
+      "image": "./src/assets/image/title4.png",
+      "readingTime": "3 min",
+      "category": "lorem4",
+      "writer": "react4"
+    },
+    {
+      "id": 5,
+      "title": "title 5",
+      "des": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quasi, asperiores",
+      "image": "./src/assets/image/title5.png",
+      "readingTime": "6 min",
+      "category": "lorem5",
+      "writer": "react5"
+    },
+    {
+      "id": 6,
+      "title": "title 6",
+      "des": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quasi, asperiores",
+      "image": "./src/assets/image/title6.png",
+      "readingTime": "3 min",
+      "category": "lorem6",
+      "writer": "react6"
+    },
+    {
+      "id": 7,
+      "title": "title 7",
+      "des": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quasi, asperiores",
+      "image": "./src/assets/image/title7.png",
+      "readingTime": "3 min",
+      "category": "lorem7",
+      "writer": "react7"
+    },
+    {
+      "id": 8,
+      "title": "title 8",
+      "des": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.consectetur adipisicing consectetur adipisicing  Quasi, asperiores",
+      "image": "./src/assets/image/title8.png",
+      "readingTime": "9 min",
+      "category": "lorem8",
+      "writer": "react8"
+    }
+  ]
+}
